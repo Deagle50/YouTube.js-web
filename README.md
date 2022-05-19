@@ -1,5 +1,12 @@
 <p>
-  Run the app with ```node .\lib\Innertube.js```
+  Run the app with 
+  ```
+  node .\lib\Innertube.js
+  ```
+  
+  ```bash
+  npm install youtubei.js@latest
+  ```
   Go to:
   [localhost](http://localhost:6746/buscar/{yoursearch}) with the api running and enjoy it from a web
 </p>
