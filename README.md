@@ -1,4 +1,11 @@
+<p>
+  Run the app with ```node .\lib\Innertube.js```
+  Go to:
+  [localhost](http://localhost:6746/buscar/{yoursearch}) with the api running and enjoy it from a web
+</p>
+
 <!-- Hi there, fellow coder :) -->
+<!-- Deagle50: Hi! -->
 
 <h1 align=center>
   YouTube.js
